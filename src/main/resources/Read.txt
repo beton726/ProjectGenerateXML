@@ -1,0 +1,4 @@
+args[0]             - путь к settings.properties (в них заранее выставляются необходимые значения)
+count.xml           - количество генерируемых файлов XML
+path.example.xml    - путь к шаблону XML
+path.discharge.xml  - путь, куда будут генерироваться XML
